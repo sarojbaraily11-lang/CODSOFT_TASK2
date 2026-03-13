@@ -30,7 +30,7 @@ This repository contains a **simple calculator website** built using **HTML, CSS
 
 1. Clone the repository
 
-git clone https://github.com/[sarojbaraily11-lang/CODSOFT_TASK2](https://github.com/your-username/your-repository-name.git).git
+git clone https://github.com/sarojbaraily11-lang/CODSOFT_TASK2.git
 
 2. Open the project folder.
 
